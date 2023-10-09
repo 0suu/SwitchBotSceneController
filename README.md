@@ -1,1 +1,3 @@
 # SwitchBotSceneController
+
+TokenとSecretを入れると登録済みのシーンを実行できます。
